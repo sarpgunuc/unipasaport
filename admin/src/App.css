@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.App form {
+  margin-bottom: 20px;
+}
+
+.App input {
+  margin-right: 10px;
+}
+
+.App ul {
+  list-style: none;
+  padding: 0;
+}
